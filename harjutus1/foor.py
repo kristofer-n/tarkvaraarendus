@@ -7,7 +7,7 @@ pygame.init()
 
 # määrab ekraani parameetrid
 screen=pygame.display.set_mode([300,300])
-pygame.display.set_caption("Lumemees - Kristofer Nagaicevs")
+pygame.display.set_caption("Foor - Kristofer Nagaicevs")
 
 # täidab ekraani musta värviga
 screen.fill([0, 0, 0])
