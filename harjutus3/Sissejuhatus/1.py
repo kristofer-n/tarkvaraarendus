@@ -16,7 +16,7 @@ gameover = False
 while not gameover:
 
     #Lisame pildid
-    youWin = pygame.image.load("img/youwin.png")
+    youWin = pygame.image.load("harjutus3/Sissejuhatus/img/youwin.png")
     youWin = pygame.transform.scale(youWin, [300, 120])
     screen.blit(youWin,[180,100])
 
