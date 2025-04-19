@@ -174,6 +174,18 @@ while running:
         if punktid >= 60:
             bg_color = lPurple 
             fps = 240
+        if punktid >= 70:
+            bg_color = lRed
+            fps = 260
+        if punktid >= 80:
+            bg_color = lOrange
+            fps = 280
+        if punktid >= 90:
+            bg_color = lYellow
+            fps = 300
+        if punktid >= 100:
+            bg_color = lGreen
+            fps = 320
 
         ### SKOORI KUVAMINE ###
         
